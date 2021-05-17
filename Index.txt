@@ -1,0 +1,133 @@
+General Problems
+
+1. Armstrong Number
+2. Strong Number
+3. Prime Number
+4. Prime Numbers in range
+5. Factorial
+6. Fibonacci Series
+7. Check Fibonacci
+8. nth Fibonacci
+9. Swap 2 numbers without using temporary variable
+10. HCF of 3 numbers
+11. LCM of 3 numbers
+12. Check leap year
+13. Check is the number is plaindrome
+14. Reverse number
+15. Check whether the number is even or odd
+16. Calculate exponential value given base and power
+17. Convert decimal to binary
+18. Convert binary to decimal
+19. Convert binary to octal
+20. Calculate Square root of a number
+21. Calculate number of digits
+22. Perfect Number
+23. Greatest of 3 numbers
+
+Pattern based problems
+
+1. Print Floyd's triangle
+2. Print Pascal's triangle
+3.
+
+
+Array based Problems
+
+1. Swap elements within the array
+2. Swap elements of two arrays
+3. Matrix multiplication
+4. Find Kth smallest element
+5. Print second largest element
+6. Largest sum contiguous subarray (Kadane's algorithm)
+7. Remove duplicates in array
+
+
+String based Problems
+
+1. Check if the string is Plaindrome
+2. Concatenate 2 strings
+3. Reverse string 
+4. Frequency of characters in string
+5. Seperate vowels and consonants in lexicographical order
+6. Print all permutations of given string
+7. Remove duplicates in string
+
+
+Searching Problems
+
+1. Implement linear search
+2. Implement binary search
+3. Print second largest element
+
+
+Sorting Problems
+
+1. Implement Bubble Sort
+2. Implement Selection Sort
+3. Implement Insertion Sort
+4. Implement Quick Sort
+5. Implement Bucket Sort
+6. Implement Merge Sort
+7. Implement Heap Sort
+8. Implement Shell Sort
+9. Implement Radix Sort
+10. Implement Counting Sort
+11. Implement Breadth First Search
+12. Implement Depth First Search
+13. Implement Level Order Search 
+
+
+Recursion based Problems
+
+1. Calculate exponential value given base and power
+2. Calculate Factorial
+3. nth Fibonacci
+4. Count number of digits
+5. Check plaindrome
+6. Reverse String
+7. Implement Tower of Hanoi
+
+
+Linked List based Problems
+
+1. Implement a Linked List
+2. Merge two sorted Linked List
+3. Reverse a Linked List recursively
+4. Flatten a Linked List
+5. Find intersection point of two Linked List
+
+
+Stack based problems
+
+1. Nearest greater element to left
+2. Nearest greater element to right
+3. Nearest smaller element to left
+4. Nearest smaller element to right
+5. Stock span problrm
+6. Maximum area of histogram
+7. Maximum area of rectangle in Binary Matrix
+8. Rain water trapping
+9. Implementing a minimum stack
+10. Implement stack using heap
+11. The celebrity problems
+12. Longest valid parenthesis
+13. Iterative Tower of Hanoi
+
+
+Heap based problems
+
+1. Kth smallest element
+2. Kth largest element
+
+
+Dynamic Programming
+
+1. Longest common subsequence
+2. Longest common substring
+3. Longest increasing subsequence
+
+
+
+
+
+
