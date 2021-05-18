@@ -3,6 +3,8 @@ This repository contains solutions of the questions in C++ language. It is made 
 
 The repository contains various folders which are categorised into different categories and contains questions as per their name specified.
 
+You may refer to Index.txt file to see the topics covered.
+
 As of now I have started with General Problems folder. It contins the basic and easy questions which one needs to know if they are preparing for thr service based companies.
 
 You can contribute by :
