@@ -5,8 +5,11 @@ The repository contains various folders which are categorised into different cat
 
 You may refer to Index.txt file to see the topics covered.
 
-As of now I have started with General Problems folder. It contins the basic and easy questions which one needs to know if they are preparing for thr service based companies.
+As of now I have started with General Problems folder. It contians the basic and easy questions which one needs to know if they are preparing for the service based companies.
 
 You can contribute by :
 1. Fixing the errors.
 2. Adding proper and easy to understand documentation. (I have added documentation to some of the codes, you may refer to those questions)
+3. Explaining the problem or concept.
+4. Writing the steps of execution of program at start.
+5. Writing Time and Space complexity for the given programme.
