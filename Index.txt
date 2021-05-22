@@ -103,7 +103,7 @@ Stack based problems
 2. Nearest greater element to right
 3. Nearest smaller element to left
 4. Nearest smaller element to right
-5. Stock span problrm
+5. Stock span problem
 6. Maximum area of histogram
 7. Maximum area of rectangle in Binary Matrix
 8. Rain water trapping
