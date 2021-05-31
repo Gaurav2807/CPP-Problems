@@ -26,7 +26,7 @@ void printMaxSumSubarray(vector<int> array, int *start, int *end, int maxSum)
 
 void maxSumSubarray(vector<int> array)
 {
-int currentSum = 0;
+int currentSum = 0; 
 int maxSum = INT32_MIN;
 int *start, *end;
 
