@@ -15,4 +15,4 @@ You can contribute by :
 5. Writing Time and Space complexity for the given programme.
 
 Point to Remember :
-1. For the sake of easy search of programs, the nomenclature of programs has been done in "1. Programme name.cpp" format, which is absolutely wrong as per the guidelines provided    for the nomenclature of a C++ program. So the programs will not run directly. Please reset the name of program correctly in order to run it. 
+1. For the sake of ease search of programs, the nomenclature of programs has been done in "1. Programme name.cpp" format, which is absolutely wrong as per the guidelines provided    for the nomenclature of a C++ program. So the programs will not run directly. Please reset the name of program correctly in order to run it. 
